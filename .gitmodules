@@ -1,0 +1,9 @@
+[submodule "user"]
+	path = user
+	url = git@github.com:dev-elliotesco/user-service.git
+[submodule "car"]
+	path = car
+	url = git@github.com:dev-elliotesco/car-service.git
+[submodule "bike"]
+	path = bike
+	url = git@github.com:dev-elliotesco/bike-service.git
